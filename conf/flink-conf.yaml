@@ -1,0 +1,3 @@
+metrics.reporters: log4j_reporter
+metrics.reporter.log4j_reporter.class: Log4JReporter
+metrics.reporter.log4j_reporter.interval: 5 SECONDS
